@@ -7,7 +7,7 @@ function preload()
     //game.load.image('bird', 'assets/birdfly__000.png');
     game.load.spritesheet('bird', 'assets/bird.png', 712, 624);
     game.load.image('background', 'assets/background.png');
-    game.load.image('bigCannon', 'assets/cannon ball.png');
+    game.load.image('bigCannon', 'assets/cannon ball.PNG');
     game.load.image('spikeball', 'assets/small cannon ball.png');
     game.load.image('fastball', 'assets/fast ball.png');
 }
